@@ -1,6 +1,6 @@
 # 호텔스컴바인 클론프로젝트
 
-[전체 소개문서](https://drive.google.com/file/d/1B_S-gabJ7yMbarbTVXuWc4hAypKZb6cn/view?usp=sharing)
+[전체 소개문서](https://drive.google.com/file/d/1eq_y7GlAknmcvv7-YL1Im3Nl14ibzf5r/view?usp=sharing)
 
 ![hotels1](https://user-images.githubusercontent.com/47135267/101473929-c7314900-398d-11eb-949a-eee79115fa5c.JPG)
 
